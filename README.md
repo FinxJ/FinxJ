@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Finex Joshy</h1>
-<h3 align="center">A passionate Data Science enthusiast from India</h3>
+<h3 align="center">A Data Science and Machine Learning</h3>
 
-- 🌱 I’m currently learning **DSA,EDA and Data Visualization**
+- 🌱 I’m currently learning **DSA,EDA,Data Visualization and Machine Learning**
 
 - 💬 Ask me about **Python,Java,SQl,C++**
 
