@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Finex Joshy</h1>
-<h3 align="center">A Data Science and Machine Learning</h3>
+<h3 align="center">A Data Science and Machine Learning Enthusiast</h3>
 
 - 🌱 I’m currently learning **DSA,EDA,Data Visualization and Machine Learning**
 
